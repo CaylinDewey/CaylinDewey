@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @CaylinDewey
+### Hi there,
+
+I am an Aspiring Junior Fullstack Developer from The Netherlands. I am passionate about coding and continuous learning.  I look forward to contribute to Tech Innovations!
+
+[![Caylin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaylinDewey)](https://github.com/caylindewey/github-readme-stats)
 - 👀 I’m interested in AI, deep learning and Python 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
