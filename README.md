@@ -11,9 +11,7 @@ I am an aspiring Junior Fullstack Software Developer based in the Netherlands. E
 
 
 ## Skills
-- HTML, CSS, JavaScript
-- Python
-- Database: MySQL
+As a meticulous and self-driven professional, I bring a versatile skill set rooted in software development, project management, and effective communication. With a proven track record of successfully delivering independent projects and a commitment to maintaining a psychologically safe work environment, I thrive in structured settings that encourage autonomy. My proficiency in collaborative technologies, combined with a strong foundation in problem-solving and adherence to best practices, positions me as an ideal candidate for roles that prioritize both structure and psychological safety.
 
 ## Education
 - Aspiring Fullstack Software Development Diploma, Code Institute
