@@ -18,17 +18,20 @@ I am an aspiring Junior Fullstack Software Developer based in the Netherlands. E
 ## Education
 - Aspiring Fullstack Software Development Diploma, Code Institute
 - B1 Dutch Language, University of Amsterdam
+- Implementation Consultant and trainer for simPro trade software.
 - Professional Scrum Master I, Scrum.org
-- Post Graduate Certificate Education, University of S.A.
-- Honors Psychology Bachelor of Arts, University of S.A.
+- Post Graduate Certificate Education, University of S.A. with an internship at a registered private school.
+- Honors Psychology Bachelor of Arts, University of S.A with a year internship at Lifeline and with an Ed Psychologist.
+- Implementation Consultant and trainer for ACCPAC accounting software.
+- Financial Diplomas from Damelin Management School 
 
-## Projects
-- [Cross-over-capsule_101](https://github.com/CaylinDewey/Cross-over-capsule_101) - This is a fictitious website to demonstrate skills learnt where i earned a merit.
+## Projects for Code Institute Full Stack Development Course
+- [Cross-over-capsule_101](https://github.com/CaylinDewey/Cross-over-capsule_101) - This is a fictitious website to demonstrate skills learnt where I earned a merit.
 - [Rock Paper Scissors Lizard Spock Game](https://github.com/CaylinDewey/rock-paper-scissors-game) - This is a game to demonstrate skills learnt. I was 29/30 short of a merit!
 - [Quick Bank](https://github.com/CaylinDewey/p3bank2) - This could be the beginning foundation for an accounting application where I earned a merit.
 
 ## Additional Information/Interests
-- Founder of Linden School (Pty) Ltd, a registered private school in South Africa of which I ran for 12 years.
+- Founder of Linden School (Pty) Ltd, a registered private school in South Africa, which I ran for 12 years.
 - Avid life-long learner always busy with a course, since the age of 13 (when I started working part-time).
 - Personal interest in podcasts about AI, optimal nutrition/lifestyle, and philosophy.
 
