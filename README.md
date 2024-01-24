@@ -11,7 +11,7 @@ I am an aspiring Junior Fullstack Software Developer based in the Netherlands. E
 
 
 ## Skills
-As a meticulous and self-driven professional, I bring a versatile skill set rooted in software development, project management, and effective communication. With a proven track record of successfully delivering independent projects and a commitment to maintaining a psychologically safe work environment, I thrive in structured settings that encourage autonomy. My proficiency in collaborative technologies, combined with a strong foundation in problem-solving and adherence to best practices, positions me as an ideal candidate for roles that prioritize both structure and psychological safety.
+I am a results-oriented professional with a passion for thriving in diverse, structured agile settings. With a solid foundation in software development, project management, and effective communication, I have successfully delivered independent projects, showcasing my adaptability, resourcefulness, and creativity. I excel in autonomy, ensuring timely and high-quality results. My commitment to best practices and meticulous adherence to processes are complemented by a track record of achievement backed by numerous diplomas and degrees, as well as stellar references. I am an ideal candidate for roles that value a structured approach, individual initiative, and a proven ability to deliver impactful outcomes.
 
 ## Education
 - Aspiring Fullstack Software Development Diploma, Code Institute
