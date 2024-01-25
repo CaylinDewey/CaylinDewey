@@ -6,8 +6,11 @@
 
 I am an aspiring Junior Fullstack Software Developer based in the Netherlands. Enthusiastic about technology and equipped with skills in HTML, CSS, JavaScript, Python, and more. Currently pursuing a Full Stack Development Diploma, I am eager to bring my diverse background in implementation and software training to a dynamic tech environment.
 
-
 [![GitHub commits](https://github-readme-stats.vercel.app/api?username=CaylinDewey&show_icons=true&theme=radical)](https://github.com/CaylinDewey)   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaylinDewey&layout=compact)](https://github.com/CaylinDewey)  [![GitHub Contributions](https://img.shields.io/github/last-commit/CaylinDewey/CaylinDewey)](https://github.com/CaylinDewey)
+## Skills
+- I value structure, procedures and standard naming conventions to perpetuate easy collaboration.
+- I enjoy creativity, innovation, and individuality to promote problem solutions that can provide simple, low-risk solutions for all affected.
+- I tend toward sustainable growth and improvement naturally; to reflect and retrospect is a cemented habit born out of a strong sense of accountability and integrity.
 
 ## Education
 - Aspiring Fullstack Software Development Diploma, Code Institute
